@@ -1,0 +1,14 @@
+{
+  "name": "nrt9719.zadatak1",
+  "version": "1.0.0",
+  "description": "moj prvi modul",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aleksandar vrencev",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^10.4.3"
+  }
+}
